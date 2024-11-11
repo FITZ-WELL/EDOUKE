@@ -1,0 +1,9 @@
+fonc <- function(x,y)
+  (x*y)/(x+y)
+fonc(2,3)
+
+Fonc <-function(t)
+  int(t**(-2*i*pi*s*t)dt
+      
+      
+(int_a^bf(x),dx)

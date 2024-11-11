@@ -1,0 +1,12 @@
+t <- c(1:9)
+t
+library(datasets)
+datasets()
+?datasets
+packages.datasets()
+plot(discoveries)
+?plot()
+
+head(discoveries)
+package="discoveries"
+
